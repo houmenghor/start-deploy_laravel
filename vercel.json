@@ -22,7 +22,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://your-app-name.vercel.app",
+        "APP_URL": "https://start-deploy-laravel.vercel.app/",
         "APP_KEY": "base64:YMMnfybxL/Uiwy2yNGUWJYR6KolePAwunnbR9x+bhKo=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
